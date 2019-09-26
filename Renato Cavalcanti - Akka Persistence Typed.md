@@ -1,0 +1,1 @@
+[Renato Cavalcanti - Akka Persistence Typed](https://speakerdeck.com/rcavalcanti/akka-persistence-typed)

@@ -1,0 +1,1 @@
+[Gabriele Petronella - Casting Metals](https://speakerdeck.com/gabro/casting-metals)

@@ -1,0 +1,1 @@
+[Fabio Labella - Ref + Deferred](https://systemfw.org/scala-italy-2019/#/)

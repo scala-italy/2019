@@ -1,0 +1,1 @@
+[Jakub Kozłowski - Flawless testing for the functional folks](https://speakerdeck.com/kubukoz/flawless-testing-for-the-functional-folks)
