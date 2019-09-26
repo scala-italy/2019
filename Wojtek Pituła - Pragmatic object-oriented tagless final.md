@@ -1,0 +1,1 @@
+[Wojtek Pituła - Pragmatic object-oriented tagless final](http://w.pitula.me/presentations/2019-09-scalaitaly/#/)
